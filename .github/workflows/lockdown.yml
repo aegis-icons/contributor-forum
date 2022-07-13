@@ -19,5 +19,6 @@ jobs:
       - uses: dessant/repo-lockdown@v2
         with:
           pr-comment: > 
-            This repository does not accept pull requests, this repo is only for discussions. \
+            This repository does not accept pull requests, this repo is only for discussions.
+            
             See the README for details.
