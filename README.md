@@ -1,4 +1,4 @@
-## Contributor Forum
+# Contributor Forum
 
 This repository is only for discussions / asking questions, those who want to contribute to [aegis-icons](https://github.com/aegis-icons/aegis-icons) by making icons, tweaking docs, writing code etc.
 
